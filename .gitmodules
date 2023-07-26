@@ -1,0 +1,24 @@
+[submodule "01_admin_panel"]
+	path = 01_admin_panel
+	url = git@github.com:8ubble8uddy/movies-admin-panel.git
+[submodule "02_sqlite_to_postgres"]
+	path = 02_sqlite_to_postgres
+	url = git@github.com:8ubble8uddy/sqlite-to-postgres.git
+[submodule "03_postgres_to_elastic"]
+	path = 03_postgres_to_elastic
+	url = git@github.com:8ubble8uddy/postgres-to-elastic.git
+[submodule "04_async_api"]
+	path = 04_async_api
+	url = git@github.com:8ubble8uddy/movies-async-api.git
+[submodule "05_auth"]
+	path = 05_auth
+	url = git@github.com:8ubble8uddy/movies-auth.git
+[submodule "06_kafka_to_clickhouse"]
+	path = 06_kafka_to_clickhouse
+	url = git@github.com:8ubble8uddy/kafka-to-clickhouse.git
+[submodule "07_ugc"]
+	path = 07_ugc
+	url = git@github.com:8ubble8uddy/movies-ugc.git
+[submodule "08_notifications"]
+	path = 08_notifications
+	url = git@github.com:8ubble8uddy/movies-notifications.git
